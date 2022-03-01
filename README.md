@@ -1,6 +1,6 @@
 # Hello, Git and Github!
  
-This repo is a register for my firsts steps with Git and Github. There is only a webpage with Git and Github documentation links.
+This repo is a register for my firsts steps on Git and Github. There is only a webpage with Git and Github documentation links.
 
 If you want to see how it works:
 - clone this repo
